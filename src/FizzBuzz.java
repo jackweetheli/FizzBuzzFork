@@ -3,9 +3,12 @@
  */
 class FizzBuzz {
 
-    public static void main(String[] args) {
+    public static void main(String[] sdfghjk) {
 
         for (int i = 1; i < 100; i++) {
+
+            int name;
+
 
             // Find out which numbers divide i.
             boolean divisibleBy3 = i % 3 == 0;

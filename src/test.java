@@ -7,7 +7,7 @@ public class test {
         }
     }
 
-    private static int doFizzBuzz(int i) {
+    public static int doFizzBuzz(int i) {
         boolean d3 = i % 3 == 0;
         boolean d5 = i % 5 == 0;
 
